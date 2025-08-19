@@ -1,0 +1,10 @@
+{
+  "api_key": "AIzaSyANlX5HA6aKAwMogDuXbI0aEMgXE_s3Kw0\n",
+  "prompt_file": "J:/Noon/2025/8/E-commerce automation/ecommerce_prompt.txt",
+  "input_file": "J:/Noon/2025/8/E-commerce automation/OnePlus_Nord_CE5_8GB_RAM_256GB_Memory_Black_Infini.xlsx",
+  "input_folder": "",
+  "output_folder": "",
+  "delay": 1.0,
+  "workers": 3,
+  "mode": "single"
+}
